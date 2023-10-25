@@ -13,6 +13,9 @@ import { render } from 'react-dom'
   - We interpolate attribute values and content
 */
 
+
+console.log("Tester")
+
 /*
 💥💥💥 Rules when USING a React component 💥💥💥
   - Components are utilized (invoked?) so we may obtain elements
@@ -20,6 +23,8 @@ import { render } from 'react-dom'
   - Instead of passing args with parens, we pass them with attribute-like syntax
   - Don't forget all tags need to close correctly
 */
+
+
 
 function App(props) {
   return (
