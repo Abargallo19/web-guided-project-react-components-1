@@ -14,7 +14,7 @@ import { render } from 'react-dom'
 */
 
 
-console.log("Tester")
+
 
 /*
 💥💥💥 Rules when USING a React component 💥💥💥
